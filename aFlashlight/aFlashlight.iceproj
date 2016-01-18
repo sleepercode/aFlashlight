@@ -105,5 +105,39 @@
     <Resource Include="App_Resources\WP8\Tiles\Iconic\110x110.png" />
     <Resource Include="App_Resources\WP8\Tiles\Iconic\202x202.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Resources\" />
+    <Folder Include="App_Resources\Android\" />
+    <Folder Include="App_Resources\Android\drawable-hdpi\" />
+    <Folder Include="App_Resources\Android\drawable-land-hdpi\" />
+    <Folder Include="App_Resources\Android\drawable-land-ldpi\" />
+    <Folder Include="App_Resources\Android\drawable-land-mdpi\" />
+    <Folder Include="App_Resources\Android\drawable-land-xhdpi\" />
+    <Folder Include="App_Resources\Android\drawable-land-xxhdpi\" />
+    <Folder Include="App_Resources\Android\drawable-land-xxxhdpi\" />
+    <Folder Include="App_Resources\Android\drawable-ldpi\" />
+    <Folder Include="App_Resources\Android\drawable-mdpi\" />
+    <Folder Include="App_Resources\Android\drawable-xhdpi\" />
+    <Folder Include="App_Resources\Android\drawable-xxhdpi\" />
+    <Folder Include="App_Resources\Android\drawable-xxxhdpi\" />
+    <Folder Include="App_Resources\iOS\" />
+    <Folder Include="App_Resources\WP8\" />
+    <Folder Include="App_Resources\WP8\Assets\" />
+    <Folder Include="App_Resources\WP8\Tiles\" />
+    <Folder Include="App_Resources\WP8\Tiles\Iconic\" />
+    <Folder Include="Plugins\" />
+    <Folder Include="Plugins\Flashlight-Plugin\" />
+    <Folder Include="Plugins\Flashlight-Plugin\src\" />
+    <Folder Include="Plugins\Flashlight-Plugin\src\android\" />
+    <Folder Include="Plugins\Flashlight-Plugin\src\android\nl\" />
+    <Folder Include="Plugins\Flashlight-Plugin\src\android\nl\xservices\" />
+    <Folder Include="Plugins\Flashlight-Plugin\src\android\nl\xservices\plugins\" />
+    <Folder Include="Plugins\Flashlight-Plugin\src\ios\" />
+    <Folder Include="Plugins\Flashlight-Plugin\src\wp8\" />
+    <Folder Include="Plugins\Flashlight-Plugin\www\" />
+    <Folder Include="scripts\" />
+    <Folder Include="styles\" />
+    <Folder Include="styles\img\" />
+  </ItemGroup>
   <Import Project="$(IceniumTargets)Build.targets" />
 </Project>

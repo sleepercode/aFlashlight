@@ -1,7 +1,7 @@
 {
   "ProjectGuid": "1effd00b-1a57-4db2-b6ed-a880f899e90a",
   "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
-  "AppIdentifier": "com.telerik.sampleflashlight",
+  "AppIdentifier": "com.ameel.aflash",
   "ProjectName": "aFlashlight",
   "FrameworkVersion": "3.7.0",
   "AndroidPermissions": [
@@ -17,31 +17,31 @@
     "Landscape"
   ],
   "iOSStatusBarStyle": "Default",
-  "AndroidHardwareAcceleration": "false",
+  "AndroidHardwareAcceleration": "true",
   "BundleVersion": "1.0",
-  "DisplayName": "Flashlight",
+  "DisplayName": "aFlash",
   "Author": "",
-  "WP8Publisher": "",
-  "WP8TileTitle": "",
+  "WP8Publisher": "Ameel",
+  "WP8TileTitle": "aFlash",
   "WP8Capabilities": [],
   "iOSBackgroundMode": [],
   "WP8Requirements": [],
-  "Description": "sample-flashlight",
+  "Description": "Flashlight. Bring light into darkness!",
   "iOSDeviceFamily": [
     "1",
     "2"
   ],
   "AndroidVersionCode": "1",
   "WP8SupportedResolutions": [
-    "ID_RESOLUTION_HD720P",
     "ID_RESOLUTION_WVGA",
-    "ID_RESOLUTION_WXGA"
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
   ],
   "Framework": "Cordova",
   "projectVersion": 1,
   "WP8PublisherID": "{d9f52ed6-9ccb-416f-babc-f8be0e9574f8}",
   "WP8ProductID": "{7fa183a1-bd21-4f01-b661-54a23f6d89e5}",
-  "WP8PackageIdentityName": "1234Telerik.com.telerik.sampleflashlight",
-  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8PackageIdentityName": "1234Ameel.com.ameel.aflash",
+  "WP8WindowsPublisherName": "CN=Ameel",
   "WPSdk": "8.1"
 }
